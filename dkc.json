@@ -1,0 +1,67 @@
+{
+  "indra": {
+    "status": true,
+    "data": [
+      {
+        "id": "88272618",
+        "nik": "3506075906950002",
+        "nama": "JENNY INDRA SABILLA",
+        "jenis_kelamin": "Perempuan",
+        "tanggal_lahir": "19 Jun 1995",
+        "telpon": "085706115899",
+        "alamat": "DSN. JUDEG RT 6 RW 1 BABADAN NGANCAR KEDIRI JAWA TIMUR",
+        "kelurahan": "BABADAN",
+        "kota": "KEDIRI",
+        "id_provinsi": "35"
+      },
+      {
+        "id": "78694517",
+        "nik": "3203081512890003",
+        "nama": "INDRA PRASETYA",
+        "jenis_kelamin": "Laki-Laki",
+        "tanggal_lahir": "15 Dec 1989",
+        "telpon": "085220702818",
+        "alamat": "KP. PAWENANG RT 3 RW 4 KADEMANGAN MANDE CIANJUR JAWA BARAT",
+        "kelurahan": "KADEMANGAN",
+        "kota": "CIANJUR",
+        "id_provinsi": "32"
+      },
+      {
+        "id": "200831832",
+        "nik": "1408042511770006",
+        "nama": "SINDRA UTAMA",
+        "jenis_kelamin": "Laki-Laki",
+        "tanggal_lahir": "25 Nov 1977",
+        "telpon": "081212085718",
+        "alamat": "JL. AR.HAKIM KM. 5 RT 4 RW 5 PERAWANG TUALANG SIAK RIAU",
+        "kelurahan": "PERAWANG",
+        "kota": "SIAK",
+        "id_provinsi": "14"
+      },
+      {
+        "id": "30692694",
+        "nik": "1671071502590005",
+        "nama": "HINDRA PUTRA",
+        "jenis_kelamin": "Laki-Laki",
+        "tanggal_lahir": "15 Feb 1959",
+        "telpon": "0811715541",
+        "alamat": "KOMP. SINTRAMAN JAYA C-35 RT 33 RW 9 DUA-PULUH ILIR DUA KEMUNING KOTA PALEMBANG SUMATERA SELATAN",
+        "kelurahan": "BUKIT SANGKAL",
+        "kota": "KOTA PALEMBANG",
+        "id_provinsi": "16"
+      },
+      {
+        "id": "173104333",
+        "nik": "3276014910870004",
+        "nama": "TRI HARTINI INDRASWARI",
+        "jenis_kelamin": "Perempuan",
+        "tanggal_lahir": "09 Oct 1987",
+        "telpon": "081297919971",
+        "alamat": "PITARA GG. MUSHOLLAH NO.58 RT 3 RW 19 PANCORAN MAS PANCORAN MAS KOTA DEPOK JAWA BARAT",
+        "kelurahan": "PANCORAN MAS",
+        "kota": "KOTA DEPOK",
+        "id_provinsi": "32"
+      }
+    ]
+  }
+}
