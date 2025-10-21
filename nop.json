@@ -18959,5 +18959,17 @@
   },
   "3514194101230001": {
     "error": "Data tidak ditemukan"
+  },
+  "KT8419UB": {
+    "Alamat": "TJ.SEMBILA**************************************************",
+    "Merk": "TOYOTA",
+    "NamaPemilik": "MUSTIKA",
+    "NoMesin": "1TR-7655857",
+    "NoRangka": "MR0AW12G1D0042851",
+    "TahunPembuatan": "2013",
+    "TanggalSTNK": "2029-04-26",
+    "createdAt": "2025-10-21T10:14:22.422Z",
+    "updatedAt": "2025-10-21T11:54:45.718Z",
+    "PlatNomor": ""
   }
 }
