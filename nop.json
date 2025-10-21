@@ -19025,5 +19025,26 @@
     "WarnaTNKB": "HITAM",
     "updatedAt": "2025-10-21T00:25:13.004Z",
     "PlatNomor": "BP-1841-ME"
+  },
+  "B9RK": {
+    "Alamat": "JL H.R RASUNA SAID RT11/5 JAKSEL",
+    "IsiCylinder": "cc 2487 cc",
+    "JenisKendaraan": "MOBIL PENUMPANG",
+    "NamaBBM": "BENSIN",
+    "NamaModelKendaraan": "MICRO/MINIBUS",
+    "NamaPemilik": "PT SINARALAM DUTAPERDANA",
+    "NoBPKB": "U08753362",
+    "NoMesin": "A25A1256531",
+    "NoRangka": "JTHCEABD7P5000223",
+    "Nopol": "9",
+    "Seri": "RK",
+    "SeriWilayah": "B",
+    "TahunPembuatan": "2023",
+    "TanggalSTNK": "2029-08-07",
+    "Warna": "ABU ABU METALIK",
+    "WarnaTNKB": "PUTIH",
+    "createdAt": "2025-10-21T11:34:19.440Z",
+    "updatedAt": "2025-10-21T11:34:19.440Z",
+    "PlatNomor": "B-9-RK"
   }
 }
