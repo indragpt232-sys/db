@@ -104,5 +104,70 @@
         "id_provinsi": "33"
       }
     ]
+  },
+  "ahmad sahroni": {
+    "status": true,
+    "data": [
+      {
+        "id": "31353815",
+        "nik": "3508061501940005",
+        "nama": "AHMAD SAHRONI",
+        "jenis_kelamin": "Laki-Laki",
+        "tanggal_lahir": "15 Jan 1994",
+        "telpon": "081234028859",
+        "alamat": "DSN. GADINGSARI RT 3 RW 7 KARANGLO KUNIR LUMAJANG JAWA TIMUR",
+        "kelurahan": "KARANGLO",
+        "kota": "LUMAJANG",
+        "id_provinsi": "35"
+      },
+      {
+        "id": "155277964",
+        "nik": "5201080107860086",
+        "nama": "AHMAD SAHRONI",
+        "jenis_kelamin": "Laki-Laki",
+        "tanggal_lahir": "01 Jul 1990",
+        "telpon": "082298136929",
+        "alamat": "DUSUN BAJUR GIRI JATI RT 0 RW null BAJUR LABUAPI LOMBOK BARAT NUSA TENGGARA BARAT",
+        "kelurahan": "BAJUR",
+        "kota": "LOMBOK BARAT",
+        "id_provinsi": "52"
+      },
+      {
+        "id": "11643518",
+        "nik": "3216100708870005",
+        "nama": "AHMAD SAHRONI",
+        "jenis_kelamin": "Laki-Laki",
+        "tanggal_lahir": "07 Aug 1987",
+        "telpon": "0812560066021",
+        "alamat": "KP. KRAMAT RT 5 RW 1 KARANGBARU CIKARANG UTARA BEKASI JAWA BARAT",
+        "kelurahan": "KARANGBARU",
+        "kota": "BEKASI",
+        "id_provinsi": "32"
+      },
+      {
+        "id": "77425498",
+        "nik": "6471041403700002",
+        "nama": "AHMAD SAHRONI",
+        "jenis_kelamin": "Laki-Laki",
+        "tanggal_lahir": "14 Mar 1970",
+        "telpon": "081520381503",
+        "alamat": "BALIKPAPAN REGENCY BLOK.K NO.12 RT 38 RW null SEPINGGAN BARU BALIKPAPAN SELATAN KOTA BALIKPAPAN KALIMANTAN TIMUR",
+        "kelurahan": "SEPINGGAN BARU",
+        "kota": "KOTA BALIKPAPAN",
+        "id_provinsi": "64"
+      },
+      {
+        "id": "144061818",
+        "nik": "1608090711800005",
+        "nama": "AHMAD SAHRONI",
+        "jenis_kelamin": "Laki-Laki",
+        "tanggal_lahir": "07 Nov 1980",
+        "telpon": "085889005101",
+        "alamat": "KARANG MANIK RT 1 RW 1 KARANG MANIK BELITANG II OGAN KOMERING ULU TIMUR SUMATERA SELATAN",
+        "kelurahan": "KARANG MANIK",
+        "kota": "OGAN KOMERING ULU TIMUR",
+        "id_provinsi": "16"
+      }
+    ]
   }
 }
