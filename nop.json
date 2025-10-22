@@ -24797,5 +24797,26 @@
   },
   "3603286609220005": {
     "error": "Data tidak ditemukan"
+  },
+  "B+1608+URD": {
+    "Alamat": "JL PUSPEN NO 6 RT11/1 JAGAKARSA JS",
+    "IsiCylinder": "cc 2494 cc",
+    "JenisKendaraan": "MOBIL PENUMPANG",
+    "NamaBBM": "SOLAR",
+    "NamaModelKendaraan": "MICRO/MINIBUS",
+    "NamaPemilik": "ARWINDA NOVITA SARI",
+    "NoKTP": "3174046806931001",
+    "NoMesin": "2KDU458911",
+    "NoRangka": "MHFXR42G2E0024687",
+    "Nopol": "1608",
+    "Seri": "URD",
+    "SeriWilayah": "B",
+    "TahunPembuatan": "2014",
+    "TanggalSTNK": "2029-01-08",
+    "Warna": "PUTIH",
+    "WarnaTNKB": "PUTIH",
+    "createdAt": "2025-10-22T04:32:07.461Z",
+    "updatedAt": "2025-10-22T04:32:07.461Z",
+    "PlatNomor": "B-1608-URD"
   }
 }
