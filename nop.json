@@ -30951,5 +30951,27 @@
     "WarnaTNKB": "HITAM",
     "updatedAt": "2025-10-20T04:21:18.389Z",
     "PlatNomor": "B-1179-SAP"
+  },
+  "B2049SMK": {
+    "Alamat": "JL WIJAYA I GG LANGGAR RT2/3 JAKSEL",
+    "IsiCylinder": "cc 1999 cc",
+    "JenisKendaraan": "MOBIL PENUMPANG",
+    "NamaBBM": "BENSIN",
+    "NamaModelKendaraan": "SEDAN",
+    "NamaPemilik": "JONATHAN MUKTI WIDODO",
+    "NoBPKB": "V08357131",
+    "NoKTP": "3174072808841001",
+    "NoMesin": "254920V0176161",
+    "NoRangka": "MHL206046PJ000921",
+    "Nopol": "2049",
+    "Seri": "SMK",
+    "SeriWilayah": "B",
+    "TahunPembuatan": "2023",
+    "TanggalSTNK": "2030-08-22",
+    "Warna": "HITAM METALIK",
+    "WarnaTNKB": "PUTIH",
+    "createdAt": "2025-10-22T10:21:27.973Z",
+    "updatedAt": "2025-10-22T10:21:27.973Z",
+    "PlatNomor": "B-2049-SMK"
   }
 }
