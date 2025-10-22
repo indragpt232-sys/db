@@ -30076,5 +30076,27 @@
   },
   "B+4910+byb": {
     "error": "Data tidak ditemukan"
+  },
+  "B+4910+BYB": {
+    "Alamat": "KP BARU RT4/3 KEBON JERUK JAKBAR",
+    "IsiCylinder": "cc 108 cc",
+    "JenisKendaraan": "SEPEDA MOTOR",
+    "NamaBBM": "BENSIN",
+    "NamaModelKendaraan": "SPD. MOTOR",
+    "NamaPemilik": "ALFIYANIH",
+    "NoBPKB": "P06626668",
+    "NoKTP": "3173055104011001",
+    "NoMesin": "JM21E2608429",
+    "NoRangka": "MH1JM212XKK629822",
+    "Nopol": "4910",
+    "Seri": "BYB",
+    "SeriWilayah": "B",
+    "TahunPembuatan": "2019",
+    "TanggalSTNK": "2024-11-27",
+    "Warna": "HITAM",
+    "WarnaTNKB": "HITAM",
+    "createdAt": "2025-10-22T09:50:49.194Z",
+    "updatedAt": "2025-10-22T09:50:49.194Z",
+    "PlatNomor": "B-4910-BYB"
   }
 }
