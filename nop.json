@@ -24683,5 +24683,27 @@
     "WarnaTNKB": "HITAM",
     "updatedAt": "2025-10-20T22:01:38.669Z",
     "PlatNomor": "B-3931-UZA"
+  },
+  "B+3612+UTN": {
+    "Alamat": "JL.KEMANGGISAN ILIR/II/51A RT16/8JB",
+    "IsiCylinder": "cc 125 cc",
+    "JenisKendaraan": "SEPEDA MOTOR",
+    "NamaBBM": "BENSIN",
+    "NamaModelKendaraan": "SPD. MOTOR",
+    "NamaPemilik": "SOPIYAN",
+    "NoBPKB": "V08290760",
+    "NoKTP": "3173070510760006",
+    "NoMesin": "JM41E1395266",
+    "NoRangka": "MH1JM4119KK396048",
+    "Nopol": "3612",
+    "Seri": "UTN",
+    "SeriWilayah": "B",
+    "TahunPembuatan": "2019",
+    "TanggalSTNK": "2030-07-25",
+    "Warna": "MERAH",
+    "WarnaTNKB": "PUTIH",
+    "createdAt": "2025-10-22T04:33:15.172Z",
+    "updatedAt": "2025-10-22T04:33:15.172Z",
+    "PlatNomor": "B-3612-UTN"
   }
 }
