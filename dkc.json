@@ -12003,5 +12003,46 @@
         "id_provinsi": "51"
       }
     ]
+  },
+  "Romi Siswanto": {
+    "status": true,
+    "data": [
+      {
+        "id": "136615462",
+        "nik": "94Qz4jpuddQlVrWN8qRPcA%3D%3D",
+        "nama": "ROMI SISWANTO, S.SOS, M.SI",
+        "jenis_kelamin": "Laki-Laki",
+        "tanggal_lahir": "02 May 1972",
+        "telpon": "081266558899",
+        "alamat": "RAWAJATI BARAT RT 2 RW 4 RAWAJATI PANCORAN KOTA ADM. JAKARTA SELATAN DKI JAKARTA",
+        "kelurahan": "RAWAJATI",
+        "kota": "KOTA ADM. JAKARTA SELATAN",
+        "id_provinsi": "31"
+      },
+      {
+        "id": "170046694",
+        "nik": "3518161811750001",
+        "nama": "ROMI SISWANTO",
+        "jenis_kelamin": "Laki-Laki",
+        "tanggal_lahir": "18 Nov 1975",
+        "telpon": "082139072738",
+        "alamat": "DS. WENGKAL RT 8 RW 2 WENGKAL REJOSO NGANJUK JAWA TIMUR",
+        "kelurahan": "WENGKAL",
+        "kota": "NGANJUK",
+        "id_provinsi": "35"
+      },
+      {
+        "id": "64365731",
+        "nik": "3302162208770004",
+        "nama": "ROMI SISWANTO",
+        "jenis_kelamin": "Laki-Laki",
+        "tanggal_lahir": "22 Aug 1977",
+        "telpon": "00000",
+        "alamat": "BANJARANYAR RT 2 RW 1 BANJARANYAR PEKUNCEN BANYUMAS JAWA TENGAH",
+        "kelurahan": "BANJARANYAR",
+        "kota": "BANYUMAS",
+        "id_provinsi": "33"
+      }
+    ]
   }
 }
