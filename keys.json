@@ -5,5 +5,12 @@
     "createdAt": "2025-10-28T02:46:42.618Z",
     "expiresAt": null,
     "notificationEnabled": true
+  },
+  {
+    "key": "csnt-IHLpYKMz0lfY",
+    "deviceId": "admin-generated",
+    "createdAt": "2025-10-28T03:00:08.848Z",
+    "expiresAt": null,
+    "notificationEnabled": true
   }
 ]
