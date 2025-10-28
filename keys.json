@@ -12,5 +12,12 @@
     "createdAt": "2025-10-28T03:00:08.848Z",
     "expiresAt": null,
     "notificationEnabled": true
+  },
+  {
+    "key": "csnt-dcodeindralovemel",
+    "deviceId": "device-TW96aWxsYS81LjAg",
+    "createdAt": "2025-10-28T07:29:40.350Z",
+    "expiresAt": null,
+    "notificationEnabled": true
   }
 ]
