@@ -1,6 +1,7 @@
 {
   "keys": [],
   "devices": [
-    "unbound"
+    "unbound",
+    "admin-generated"
   ]
 }
