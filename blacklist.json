@@ -1,4 +1,6 @@
 {
   "keys": [],
-  "devices": []
+  "devices": [
+    "unbound"
+  ]
 }
